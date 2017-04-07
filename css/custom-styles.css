@@ -144,9 +144,13 @@ img{}
     font-size: 15px;
 }
 .dlist ul li a {
+    display: inline;
     border-style: none;
     list-style: none;
     font-size: 15px;
+}
+.dlist ul li span {
+    color: rgb(10,10,190);
 }
 
 .wrapper{
