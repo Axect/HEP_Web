@@ -1,1 +1,2 @@
 20170407 - Fix publication inline problem, fix site footer hyper link (To google site)
+20170408 - Modify Erratas in publications, add 1 paper and 2 sections (Seong chan, Seodong)
