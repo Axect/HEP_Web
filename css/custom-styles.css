@@ -64,8 +64,13 @@ ul{
 /*========================================
   Custom Classes
 ========================================*/
+/* For all */
 .blist{
 
+}
+.blist h1 {
+    font-size: 28px;
+    color: grey;
 }
 .blist ul {
     list-style:none;
@@ -91,6 +96,7 @@ ul{
     text-decoration: none;
     color: rgb(70,120,180);
 }
+/* For Members */
 .clist {
 
 }
@@ -129,6 +135,7 @@ ul{
     font-size: 16px;
     color: rgb(250,100,180);
 }
+/* For Publish */
 .dlist{
 
 }
@@ -152,7 +159,39 @@ ul{
 .dlist ul li span {
     color: rgb(150,10,10);
 }
+/* For Publish 2 */
+.elist {
 
+}
+.elist h1 {
+    font-size: 28px;
+    color: grey;
+}
+.elist ul {
+    list-style:none;
+}
+.elist ul li {
+    font-family: 'fjalla_oneregular';
+    font-size: 22px;
+    color: rgb(70,120,180);
+    display: block;
+    width: 100%;
+    height: 28px;
+    /*background-color: #333;*/
+    border-left: 5px solid #222;
+    /*border-right: 5px solid #222;*/
+    padding-left: 10px;
+    text-decoration: none;
+}
+.elist ul li span {
+    font-family: 'fjalla_oneregular';
+    font-size: 18px;
+    color: grey;
+}
+.elist ul li span a {
+    font-family: 'fjalla_oneregular';
+    font-size: 18px;
+}
 .wrapper{
     padding: 60px 0;
 }
